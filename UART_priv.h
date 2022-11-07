@@ -27,17 +27,17 @@
 #define RXCIE 	7
 #define TXCIE 	6
 #define UDRIE 	5
-#define RXEN 	4
-#define TXEN 	3
+#define RXEN 	  4
+#define TXEN 	  3
 #define UCSZ2 	2
-#define RXB8 	1
-#define TXB8 	0
+#define RXB8  	1
+#define TXB8 	  0
 
 #define URSEL 	7
 #define UMSEL 	6
-#define UPM1 	5
-#define UPM0 	4
-#define USBS 	3
+#define UPM1  	5
+#define UPM0 	  4
+#define USBS 	  3
 #define UCSZ1 	2
 #define UCSZ0 	1
 #define UCPOL 	0
